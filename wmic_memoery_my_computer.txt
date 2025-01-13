@@ -1,0 +1,61 @@
+PS C:\Users\Peteris> wmic memorychip list full
+
+
+BankLabel=BANK 0
+Capacity=8589934592
+DataWidth=64
+Description=Physical Memory
+DeviceLocator=ChannelA-DIMM0
+FormFactor=12
+HotSwappable=
+InstallDate=
+InterleaveDataDepth=
+InterleavePosition=
+Manufacturer=Samsung
+MemoryType=0
+Model=
+Name=Physical Memory
+OtherIdentifyingInfo=
+PartNumber=M471A1K43BB1-CRC
+PositionInRow=
+PoweredOn=
+Removable=
+Replaceable=
+SerialNumber=35708C2C
+SKU=
+Speed=2400
+Status=
+Tag=Physical Memory 0
+TotalWidth=64
+TypeDetail=16512
+Version=
+
+
+BankLabel=BANK 2
+Capacity=8589934592
+DataWidth=64
+Description=Physical Memory
+DeviceLocator=ChannelB-DIMM0
+FormFactor=12
+HotSwappable=
+InstallDate=
+InterleaveDataDepth=
+InterleavePosition=
+Manufacturer=Samsung
+MemoryType=0
+Model=
+Name=Physical Memory
+OtherIdentifyingInfo=
+PartNumber=M471A1K43BB1-CRC
+PositionInRow=
+PoweredOn=
+Removable=
+Replaceable=
+SerialNumber=357089A6
+SKU=
+Speed=2400
+Status=
+Tag=Physical Memory 1
+TotalWidth=64
+TypeDetail=16512
+Version=
